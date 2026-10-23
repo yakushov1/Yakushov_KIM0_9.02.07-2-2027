@@ -1,6 +1,5 @@
 # Python
 __pycache__/
 .vscode/
-config_local.py
 test.py
 /data
